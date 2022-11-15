@@ -2,12 +2,13 @@
 
 This repository will hold:
 
-#### Intro to Data Science
-#### Data Science Pipeline
-#### Pipeline Demo
-#### DS Vocabulary
-#### Environment Setup
-#### Command Line
+#### L1.0 Intro to Data Science
+#### L1.1Data Science Pipeline
+#### L1.2 Pipeline Demo
+<br>
+#### L2. DS Vocabulary
+#### L3. Environment Setup
+#### L4. Command Line
     - Overview
     - Introduction
     - Listing Files
@@ -16,4 +17,4 @@ This repository will hold:
     - Creating Files and Directories
     - Moving Files
     - More Topics
-#### Git
+#### L5. Git
