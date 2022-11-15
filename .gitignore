@@ -1,1 +1,20 @@
 *.ipynb_
+
+.DS_Store
+.ipynb_checkpoints/Environment Setup-checkpoint.ipynb
+.ipynb_checkpoints/L3. Data Science Vocabulary-checkpoint.ipynb
+.ipynb_checkpoints/L4. Command Line Interface-checkpoint.ipynb
+.ipynb_checkpoints/L5. Git-checkpoint.ipynb
+
+env.py
+__pycache__
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+.vscode/
+*.csv
+*.json
+*.xlsx
+*.jpg
+*.png
+*.svg
